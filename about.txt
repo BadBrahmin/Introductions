@@ -1,0 +1,12 @@
+Hi, I'm Tejas 
+
+A Manipal Uni alumnus, I took up digital marketing after a very interesting internship with OnePlus. 
+Over the 2.5 years, I worked with brands like redbus, HDFC life, Deshpande Foundation and many more,
+collectively collaborating with more than 20 brands, creating content and running effective campaigns.
+I'm a proud self-learnt marketer but not knowing how to code basic pages hurt me professionally.
+I missed out on a lot of brilliant campaigns because I had to depend on under-staffed tech teams to get landing pages/games/microsites done. 
+Then when I wanted to transition to Growth Marketing, I constantly found myself playing catch-up rather than adding value.
+The bitterness of not knowing to code further intensified when I looked to build SaaS and app products.
+Everyone has ideas but it's the execution that matters and the elusive coders know that.
+This is my effort to upskill and develop into a T shaped skilled individual by
+efficiently leveraging my marketing knowledge with frontend development. 
